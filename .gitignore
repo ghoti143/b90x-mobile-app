@@ -30,7 +30,6 @@ build/
 local.properties
 *.iml
 
-yarn.lock
 .expo/
 
 # node.js
