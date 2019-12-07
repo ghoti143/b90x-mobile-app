@@ -23,7 +23,8 @@ export default class TodoList extends Component {
       { key: 'e', text: 'exodus', done: false},
       { key: 'l', text: 'leviticus', done: false},
       { key: 'n', text: 'numbers', done: false},
-      { key: 'd', text: 'deutoronomy', done: false}
+      { key: 'd', text: 'deuturonomy', done: false},
+      { key: 'j', text: 'joshua', done: false}
     ],
     text: ""
   };
